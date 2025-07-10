@@ -12,7 +12,7 @@ group :development, :test do
   gem "rake"
   gem "rubocop", ">= 0.50"
   gem "rubocop-performance"
-  gem "yard-junk"
+  gem "yard-junk", ">= 0.0.8"
 end
 
 group :development do
